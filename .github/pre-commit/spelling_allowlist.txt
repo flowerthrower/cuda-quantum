@@ -197,8 +197,10 @@ arity
 auxillary
 backend
 backends
+backpressure
 bernstein
 bitcode
+bitmask
 bitstring
 bitstrings
 bitwidth
@@ -396,6 +398,7 @@ selectable
 sexualized
 shifter
 shifters
+sizeof
 splitter
 splitters
 sqale
@@ -434,6 +437,7 @@ transpilation
 transpile
 trixie
 trotterization
+tx
 uccsd
 unary
 uncomputation
